@@ -9,3 +9,9 @@ Introduction to Electromechanical Systems course project.  Worked with Systems e
 Used a LAMP stack to issue commands from a web interface to a custom-built, Arduino-controlled, differential drive robot.
 
 Personal responsibilities included: created web GUI, implemented a state machine to govern real-time navigation of a miniature road network, and wrote PHP scripts to communicate with an inventory database.
+
+## Tools
+* Arduino-C
+* PHP
+* MySQL
+* HTML/CSS
